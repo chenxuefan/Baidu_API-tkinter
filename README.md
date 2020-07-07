@@ -38,7 +38,7 @@ GUI应用程序，也称图形界面开发，或“上位机“，是采用图�
 ---
 4.1.	功能结构图<br>
 ###
-![](https://github.com/chenxuefan/Baidu_API-tkinter/blob/master/img/structure.png)
+![](https://github.com/chenxuefan/Baidu_API-tkinter/blob/master/img/structure.png)<br>
 4.2.	具体功能列表<br>
 ###
 
@@ -55,10 +55,10 @@ GUI应用程序，也称图形界面开发，或“上位机“，是采用图�
 ---
 5.1.	程序开发技术
 ###
-![](https://github.com/chenxuefan/Baidu_API-tkinter/blob/master/img/main_tec.png)
+![](https://github.com/chenxuefan/Baidu_API-tkinter/blob/master/img/main_tec.png)<br>
 5.2.	API接口技术 
 ###
-![](https://github.com/chenxuefan/Baidu_API-tkinter/blob/master/img/api_tec.png)
+![](https://github.com/chenxuefan/Baidu_API-tkinter/blob/master/img/api_tec.png)<br>
 5.3.	性能需求
 ###
 暂无测试
@@ -75,7 +75,7 @@ GUI应用程序，也称图形界面开发，或“上位机“，是采用图�
 周深	图形界面的开发<br>
 6.4.	Issue截图
 ###
-![](https://github.com/chenxuefan/Baidu_API-tkinter/blob/master/img/scr_shot.png)
+![](https://github.com/chenxuefan/Baidu_API-tkinter/blob/master/img/scr_shot.png)<br>
 
 7.团队GitHub仓库
 ---
