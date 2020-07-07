@@ -72,7 +72,7 @@ GUI应用程序，也称图形界面开发，或“上位机“，是采用图�
 周深	图形界面的开发<br>
 6.4.	Issue截图
 ###
-!(https://github.com/chenxuefan/Baidu_API-tkinter/blob/master/img/scr_shot.png)
+![](https://github.com/chenxuefan/Baidu_API-tkinter/blob/master/img/scr_shot.png)
 
 7.团队GitHub仓库
 ---
